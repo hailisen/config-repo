@@ -11,5 +11,5 @@ spring:
   jpa:
     show-sql: true
 env:
-  dev2
+  dev3
 lable: release
