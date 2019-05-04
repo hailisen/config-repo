@@ -12,7 +12,7 @@ spring:
     show-sql: true
   cloud:
     config:
-      profile: dev6
+      profile: dev1
 eureka:
   client:
     service-url:
